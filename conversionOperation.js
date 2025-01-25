@@ -17,3 +17,6 @@ console.log(typeof someNumber);
 let convert = String(someNumber)
 console.log(convert);
 console.log(typeof convert);
+
+// Note: document.write is used to display the result in browser
+// document.write(convert)
