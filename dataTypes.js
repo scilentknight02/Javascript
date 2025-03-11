@@ -5,6 +5,7 @@
 // boolean => true/false
 // null => standalone value
 // symbol => unique
+// undefined
 
 // "use strict"; //treat all JS code as newer version
 
@@ -14,7 +15,7 @@ let isLoggedIn = true;
 let k;
 
 // console.log(name);
-// console.table([name, age, isLoggedIn]);
+console.table([name, age, isLoggedIn]);
 
 // console.log(typeof age);
 // console.log(typeof null);
@@ -51,7 +52,7 @@ let myObj = {
 };
 // console.log(myObj);
 
-// Finction
+// Function
 
 const myFunction = function () {
   // console.log("Hello World!");
@@ -60,7 +61,7 @@ const myFunction = function () {
 // console.log(typeof myFunction);
 
 // Stack and Heap memory in javascript
-// Notes: stack memory used in all premitive data type and heap memory is usedin all non-premitive data type
+// Notes: stack memory used in all premitive data type and heap memory is used in all non-premitive data type
 // stack (premitive), heap (non=premitive)
 
 let myName = "prakash pathak";
