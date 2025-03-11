@@ -14,22 +14,20 @@
 // console.log(arr)
 // arr.unshift(60) // unshift method add the data at front of the index and shieft the position of all inserted data
 // console.log(arr)
-// arr.shift() // shieft method remive data from the front
+// arr.shift() // shift method remive data from the front
 // console.log(arr)
 // console.log()
 // console.log()
 // console.log(`Result is: ${arr.indexOf(5)}`)
 // console.log()
 // console.log()
-// console.log(arr.includes(5))
+// console.log(arr.includes(5)) // check is 5 available in the group of an array
 // console.log(arr.includes(50))
-// console.log(arr.indexOf(5))
+// console.log(arr.indexOf(5)) // find the location of an array item 5
 // console.log(arr.indexOf(50))
 
 // console.log(arr)
 // console.log(arr.join()) // join method binds all array items and represent it in strings form
-// var a = console.log(arr.join())
-// console.log(typeof(a))
 
 // const marvel_heros = ['thor', 'iranman', 'spiderman']
 // const dc_heros = ['superman', 'flash', 'batman']
