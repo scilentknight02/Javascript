@@ -1,23 +1,22 @@
 // Numbers
-/*
-const score = 400;
-console.log(score);
+// const score = 400;
+// console.log(score);
 
-const balance = new Number(100);
-console.log(balance);
-console.log(balance.toFixed(2));
+// const balance = new Number(100);
+// console.log(balance);
+// console.log(balance.toFixed(2));
 
-console.log(balance.toString().length);
-const anothernum = 123.5847
-console.log(anothernum.toPrecision(3))
-console.log(anothernum.toPrecision(4))
-console.log(anothernum.toPrecision(2))
+// console.log(balance.toString().length);
+// const anothernum = 123.5847
+// console.log(anothernum.toPrecision(3))
+// console.log(anothernum.toPrecision(4))
+// console.log(anothernum.toPrecision(2))
 
-const longNum = 1000000000
-console.log(longNum.toLocaleString())
-console.log(longNum.toLocaleString('en-IN'))
-console.log(longNum.toLocaleString('en-NP'))
-*/
+// const longNum = 1000000000
+// console.log(longNum.toLocaleString())
+// console.log(longNum.toLocaleString('en-IN'))
+// console.log(longNum.toLocaleString('en-NP'))
+
 
 
 // Maths
@@ -36,9 +35,9 @@ console.log(Math.min(3,8,5,9))
 console.log(Math.max(3,8,5,9))
 
 */
-console.log(Math.random()) // Random shows ecery time differents and range between 0 to 1 only.
-console.log((Math.random() * 10) + 1)
-console.log((Math.floor(Math.random() * 10)) + 1)
+// console.log(Math.random()) // Random shows every time differents and range between 0 to 1 only.
+// console.log((Math.random() * 10) + 1)
+// console.log((Math.floor(Math.random() * 10)) + 1)
 
 const min = 10
 const max = 20

@@ -28,7 +28,7 @@ var namee = "Hritesh";
 var kt = 50;
 // console.log(`my name is ${namee.toUpperCase()} and my age is ${kt.length}.`);
 a = kt.toString().length;
-console.log("length is" + a);
+console.log("length is " + a);
 // gameName = "hitesh"
 const gameNames = new String("Hitesh");
 console.log(gameNames)

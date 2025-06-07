@@ -14,7 +14,7 @@
 // console.log(arr)
 // arr.unshift(60) // unshift method add the data at front of the index and shieft the position of all inserted data
 // console.log(arr)
-// arr.shift() // shift method remive data from the front
+// arr.shift() // shift method remove data from the front
 // console.log(arr)
 // console.log()
 // console.log()
@@ -36,7 +36,7 @@
 // console.log(all_heros[4])
 
 // another trick does same like upper concat operator called spread
-// ... called spread whick make each elements of an array individual
+// ... called spread which make each elements of an array individual
 // const all_new_heros =  [...marvel_heros, ...dc_heros]
 // console.log(all_new_heros)
 
@@ -47,11 +47,11 @@
 // console.log(real_arr)
 
 
-console.log(Array.isArray("Prakash"))
+// console.log(Array.isArray("Prakash"))
 console.log(Array.from("Prakash"))
 
 
 let s1 = 100
 let s2 = 200
 let s3 = 300
-let ans = console.log(Array.of(s1,s2,s3))
+// let ans = console.log(Array.of(s1,s2,s3))

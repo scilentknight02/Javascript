@@ -10,7 +10,7 @@ const JsUser = {
   [sym]: "myKey1",
   age: 22,
   location: "kathmandu",
-  email: "scilent@gmail.com",
+  email: "scilentknight512@gmail.com",
   isLoggedIn: false,
   lastLoggedInDays: ["Monday", "Tuesday", "Friday"],
 };
@@ -22,7 +22,7 @@ const JsUser = {
 
 // JsUser.email = "helloworld@gmail.com";
 // console.log(JsUser.email);
-// Object.freeze(JsUser); // freeze operator makje freeze to the object then after cannot made any changes on object values
+// Object.freeze(JsUser); // freeze operator make freeze to the object then after cannot made any changes on object values
 // // here is the example of freeze where after freeze chage on email does not made.
 // JsUser.email = "chatgpr@gmail.com";
 // console.log(JsUser);
